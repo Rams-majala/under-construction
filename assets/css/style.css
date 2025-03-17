@@ -1,9 +1,9 @@
 /*===========================
     01. Common CSS
 ===========================*/
-@import url("https: //fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Jost", sans-serif;
   font-weight: normal;
   font-style: normal;
   overflow-x: hidden;
@@ -75,7 +75,7 @@ h6 a {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
   margin-bottom: 20px;
 }
 
@@ -1079,7 +1079,7 @@ main.main-14 .main-wrapper.demo-14 {
       -ms-flex-pack: center;
           justify-content: center;
   font-family: "Roboto", sans-serif;
-  color: #3E2945;
+  color: #181718;
   position: relative;
 }
 
@@ -1091,7 +1091,7 @@ main.main-14 .main-wrapper.demo-14 {
 }
 
 main.main-14 .main-wrapper.demo-14 .img-wrapper {
-  margin-left: -100px;
+  margin-left: -80px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1164,7 +1164,7 @@ main.main-14 .main-wrapper.demo-14 .content-wrapper {
 }
 
 main.main-14 .main-wrapper.demo-14 .content-wrapper h1 {
-  font-size: 100px;
+  font-size: 70px;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1235,7 +1235,7 @@ main.main-14 .main-wrapper.demo-14 .content-wrapper .countdown .single-count-con
 main.main-14 .main-wrapper.demo-14 .content-wrapper .countdown .single-count-content::after {
   content: ':';
   font-size: 50px;
-  color: #3E2945;
+  color: #171617;
   position: absolute;
   top: -5px;
   right: 0;
@@ -1274,19 +1274,19 @@ main.main-14 .main-wrapper.demo-14 .content-wrapper .subscribe-form input {
 }
 
 main.main-14 .main-wrapper.demo-14 .content-wrapper .subscribe-form input::-webkit-input-placeholder {
-  color: #3E2945;
+  color: #090809;
 }
 
 main.main-14 .main-wrapper.demo-14 .content-wrapper .subscribe-form input:-ms-input-placeholder {
-  color: #3E2945;
+  color: #060606;
 }
 
 main.main-14 .main-wrapper.demo-14 .content-wrapper .subscribe-form input::-ms-input-placeholder {
-  color: #3E2945;
+  color: #0b0a0b;
 }
 
 main.main-14 .main-wrapper.demo-14 .content-wrapper .subscribe-form input::placeholder {
-  color: #3E2945;
+  color: #282628;
 }
 
 main.main-14 .main-wrapper.demo-14 .content-wrapper .subscribe-form input:focus {
